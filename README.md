@@ -29,7 +29,7 @@ I'm a passionate software engineer with a strong focus on mobile and web develop
 
 [![React Native](https://img.icons8.com/color/48/000000/react-native.png   )](https://reactnative.dev/   )
 [![Node.js](https://img.icons8.com/color/48/000000/nodejs.png   )](https://nodejs.org/   )
-[![Express.js](https://img.icons8.com/color/48/000000/expressjs.png   )](https://expressjs.com/   )
+[![Express.js](https://img.icons8.com/color/48/000000/expressjs.png)](https://expressjs.com/)
 [![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png   )](https://www.postgresql.org/   )
 [![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png   )](https://developer.mozilla.org/en-US/docs/Web/HTML   )
 [![CSS3](https://img.icons8.com/color/48/000000/css3.png   )](https://developer.mozilla.org/en-US/docs/Web/CSS   )
