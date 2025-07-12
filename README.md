@@ -77,9 +77,10 @@ React Native ile geliştirilen mobil uygulama + Node.js & Express tabanlı backe
 #### 💻 Web Projesi  
 HTML, CSS ve JavaScript kullanılarak geliştirilen dinamik web sitesi projesi. Temel web geliştirme becerilerini pekiştirmek ve kullanıcı dostu arayüzler oluşturmak amacıyla yapıldı.
 
-<a href="https://github.com/omerkilincoglu/web-projesi " target="_blank">
-  <img alt="Web Project" src="https://via.placeholder.com/68?text=Web+App" height="68" />
+<a href="https://github.com/omerkilincoglu/Wep-Projesi" target="_blank">
+  <img src="https://github.com/omerkilincoglu/Wep-Projesi/raw/main/gorseller/website.png" alt="Web Project" height="68" align="left" style="margin-right:15px;" />
 </a>
+
 
 > Bu proje, temel frontend teknolojileri olan HTML, CSS ve JavaScript kullanılarak oluşturuldu. İleride daha gelişmiş framework'lerle genişletmeyi planlıyorum.
 
