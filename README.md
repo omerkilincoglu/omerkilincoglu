@@ -56,21 +56,28 @@ I'm a passionate software engineer with a strong focus on mobile and web develop
 <br/>
 <br/>
 
+
 ### 🛠️ My Projects
 
+#### Bitirme Projesi
+Frontend:  
 <a href="https://github.com/omerkilincoglu/bitirme-frontend-proje" target="_blank">  
   <img alt="bitirme-frontend-proje" src="https://github.com/omerkilincoglu/bitirme-frontend-proje/raw/main/assets/iconapp.png" height="68" align="left" style="margin-right:15px;" />  
 </a>
+
+Backend:  
 <a href="https://github.com/omerkilincoglu/bitirme-backend-proje" target="_blank">  
   <img alt="bitirme-backend-proje" src="https://github.com/omerkilincoglu/bitirme-backend-proje/raw/main/assets/iconapp.png" height="68" align="left" style="margin-right:15px;" />  
 </a>
+
+<br clear="both" />
+
+#### Wep Projesi  
 <a href="https://github.com/omerkilincoglu/Wep-Projesi" target="_blank">  
   <img alt="Wep-Projesi" src="https://github.com/omerkilincoglu/Wep-Projesi/raw/main/gorseller/website.png" height="68" align="left" style="margin-right:15px;" />  
 </a>
 
 <br clear="both" />
-
-
 
 
 
