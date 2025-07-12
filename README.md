@@ -1,6 +1,6 @@
 ## 👋 Hey 👋, I'm Ömer Kılınçoğlu!
 
-[![LinkedIn](https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/assets/linkedin.svg )](https://www.linkedin.com/in/omerkilincoglu )
+[![LinkedIn]( )
 
 ---
 
