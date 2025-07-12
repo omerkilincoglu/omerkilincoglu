@@ -44,16 +44,16 @@ I'm a passionate software engineer with a strong focus on mobile and web develop
 #### 🎓 Bitirme Projesi  
 React Native ile geliştirilen mobil uygulama + Node.js & Express tabanlı backend sistemi. Uygulama, kullanıcıların ürünleri paylaşabileceği ve ikinci el alışveriş yapabileceği bir platformdur.
 
-- 🔗 [Backend Repo](https://github.com/omerkilincoglu/bitirme-backend-proje )
-- 🔗 [Frontend Repo](https://github.com/omerkilincoglu/bitirme-frontend-proje )
+- 🔗 [Backend](https://github.com/omerkilincoglu/bitirme-backend-proje )
+- 🔗 [Frontend](https://github.com/omerkilincoglu/bitirme-frontend-proje )
 
 ---
 
 #### 💻 Web Projesi  
 HTML, CSS ve JavaScript kullanılarak geliştirilen temel düzey web uygulaması. Frontend geliştirme becerilerinin pekiştirilmesi amacıyla yapıldı.
 
-- 🔗 [Web Projesi Repo](https://github.com/omerkilincoglu/web-projesi )
+- 🔗 [Web Projesi](https://github.com/omerkilincoglu/web-projesi )
 
 ---
 
-> Bu README şablonu Rahul Jha'nın şablonundan uyarlanmıştır.
+
