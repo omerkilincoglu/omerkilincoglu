@@ -16,7 +16,6 @@ I am a passionate software engineer specializing in mobile and web development, 
 ### 🧐 More About Me:
 
 - 🎓 I'm a Computer Engineering graduate from Sakarya University (Class of 2025)
-- 💻 I specialize in JavaScript-based full-stack development
 - 📱 I’ve developed mobile applications using React Native
 - 🔧 I’ve built backend systems with Node.js + Express.js
 - 🌱 Currently, I'm learning Flutter and improving my mobile app development skills
