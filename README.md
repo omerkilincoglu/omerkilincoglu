@@ -56,7 +56,6 @@ I'm a passionate software engineer with a strong focus on mobile and web develop
 <br/>
 <br/>
 
-
 ### 🛠️ My Projects
 
 <a href="https://github.com/omerkilincoglu/bitirme-frontend-proje" target="_blank">  
@@ -66,10 +65,11 @@ I'm a passionate software engineer with a strong focus on mobile and web develop
   <img alt="bitirme-backend-proje" src="https://github.com/omerkilincoglu/bitirme-backend-proje/raw/main/assets/iconapp.png" height="68" align="left" style="margin-right:15px;" />  
 </a>
 <a href="https://github.com/omerkilincoglu/Wep-Projesi" target="_blank">  
-  <img alt="Wep-Projesi" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/globe.svg" height="68" align="left" style="margin-right:15px;" />  
+  <img alt="Wep-Projesi" src="https://github.com/omerkilincoglu/Wep-Projesi/raw/main/gorseller/website.png" height="68" align="left" style="margin-right:15px;" />  
 </a>
 
 <br clear="both" />
+
 
 
 
