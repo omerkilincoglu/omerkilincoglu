@@ -60,23 +60,16 @@ I'm a passionate software engineer with a strong focus on mobile and web develop
 ### 🛠️ My Projects
 
 <a href="https://github.com/omerkilincoglu/bitirme-frontend-proje" target="_blank">  
-  <img alt="bitirme-frontend-proje" src="https://github.com/omerkilincoglu/bitirme-frontend-proje/raw/main/assets/iconapp.png" height="68" align="left" style="margin-right:15px;"/>  
-</a>  
-**bitirme-frontend-proje** — Second-hand marketplace mobile app frontend  
-
+  <img alt="bitirme-frontend-proje" src="https://github.com/omerkilincoglu/bitirme-frontend-proje/raw/main/assets/iconapp.png" height="68" align="left" style="margin-right:15px;" />  
+</a>
 <a href="https://github.com/omerkilincoglu/bitirme-backend-proje" target="_blank">  
-  <img alt="bitirme-backend-proje" src="https://github.com/omerkilincoglu/bitirme-backend-proje/raw/main/assets/iconapp.png" height="68" align="left" style="margin-right:15px;"/>  
-</a>  
-**bitirme-backend-proje** — Backend API for second-hand marketplace app  
-
-<br clear="both"/>
-
+  <img alt="bitirme-backend-proje" src="https://github.com/omerkilincoglu/bitirme-backend-proje/raw/main/assets/iconapp.png" height="68" align="left" style="margin-right:15px;" />  
+</a>
 <a href="https://github.com/omerkilincoglu/Wep-Projesi" target="_blank">  
-  <img alt="Wep-Projesi" src="https://github.com/omerkilincoglu/Wep-Projesi/raw/main/assets/iconapp.png" height="68" align="left" style="margin-right:15px;"/>  
-</a>  
-**Wep-Projesi** — Web page project  
+  <img alt="Wep-Projesi" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/globe.svg" height="68" align="left" style="margin-right:15px;" />  
+</a>
 
-<br clear="both"/>
+<br clear="both" />
 
 
 
