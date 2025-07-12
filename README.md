@@ -1,6 +1,12 @@
 # Hello 👋, I'm Ömer Kılınçoğlu
 ### I'm a passionate software engineer with a strong focus on mobile and web development. I enjoy building user-friendly applications using modern technologies like React Native, Node.js, Express, JavaScript, HTML/CSS, and also have experience in C++ and C.
 
+<br/>
+<br/>
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+
+
 🔭   I’m currently working on React Native second-hand marketplace app
 🤝   I’m open to collaborate on mobile and full-stack projects
 🌱   I’m currently improving my skills in Flutter and TypeScript
@@ -10,11 +16,9 @@
 📝   Check out my Resume (optional)
 📚   In my free time, I enjoy reading tech blogs and fiction novels
 
+<br>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-
-
-## Skills
+### 🔨 Languages and Tools:
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="c++" width="40" height="40"/>&nbsp;
