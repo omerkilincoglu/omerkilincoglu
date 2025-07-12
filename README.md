@@ -1,6 +1,5 @@
 ## Hey 👋, I'm Ömer Kılınçoğlu!
 <a href='https://www.linkedin.com/in/omerkilincoglu'><img align='left' alt="LinkedIn" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/assets/linkedin.svg" height='18px'/></a>
-<a href='https://github.com/omerkilincoglu'><img align='left' alt="GitHub" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/assets/github.svg" height='18px'/></a>
 
 
 I'm a passionate software engineer with a strong focus on mobile and web development. I enjoy building user-friendly applications using modern technologies like React Native, Node.js, Express, JavaScript, HTML/CSS, and also have experience in C++ and C.
@@ -60,9 +59,11 @@ I'm a passionate software engineer with a strong focus on mobile and web develop
 
 
 ### 🛠️ My Projects
-<a href="https://github.com/omerkilincoglu/bitirme-backend-proje" target="_blank">
-<a href="https://github.com/omerkilincoglu/bitirme-frontend-proje" target="_blank">
-<a href="https://github.com/omerkilincoglu/Wep-Projesi" target="_blank">
+
+- [bitirme-backend-proje](https://github.com/omerkilincoglu/bitirme-backend-proje)
+- [bitirme-frontend-proje](https://github.com/omerkilincoglu/bitirme-frontend-proje)
+- [Wep-Projesi](https://github.com/omerkilincoglu/Wep-Projesi)
+
 
 
 
