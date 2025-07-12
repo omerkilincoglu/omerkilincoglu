@@ -56,25 +56,18 @@ I'm a passionate software engineer with a strong focus on mobile and web develop
 <br/>
 <br/>
 
-
 ### 🛠️ My Projects
 
-<a href="https://github.com/omerkilincoglu/bitirme-backend-proje" target="_blank" style="margin-right: 15px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Backend Project" height="68" />
-</a>
-<a href="https://github.com/omerkilincoglu/bitirme-frontend-proje" target="_blank" style="margin-right: 15px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="Frontend Project" height="68" />
+<a href="https://github.com/omerkilincoglu/bitirme-frontend-proje" target="_blank">
+  <img alt="Bitirme Frontend" src="./projects/bitirme-frontend.svg" height="68" align="left" style="margin-right: 15px;" />
 </a>
 
-**Project:** [SecondHand Marketplace App](https://github.com/omerkilincoglu/bitirme-frontend-proje)  
-A complete second-hand sales mobile application combining backend and frontend, developed using React Native, Node.js, and PostgreSQL.
-
-<a href="https://github.com/omerkilincoglu/Wep-Projesi" target="_blank" style="margin-top: 10px; display: inline-block;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="Web Project" height="68" />
+<a href="https://github.com/omerkilincoglu/bitirme-backend-proje" target="_blank">
+  <img alt="Bitirme Backend" src="./projects/bitirme-backend.svg" height="68" align="left" style="margin-right: 15px;" />
 </a>
 
-**Project:** [Personal Portfolio Website](https://github.com/omerkilincoglu/Wep-Projesi)  
-A responsive and modern personal portfolio website showcasing projects, skills, and contact information built with React and modern web technologies.
+<br clear="both" />
+
 
 
 
