@@ -4,7 +4,8 @@
 
 ---
 
-I'm a passionate software engineer with a strong focus on mobile and web development. I enjoy building user-friendly applications using modern technologies like React Native, Node.js, Express, JavaScript, HTML/CSS, and also have experience in C++ and C.
+I am a passionate software engineer specializing in mobile and web development, continuously improving my skills. I strive to deliver user-centered, high-quality, and sustainable solutions. I have experience in developing applications for mobile platforms and continually enhance my expertise by learning new technologies.
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif " width="360px" alt="Tech Stack GIF"/>
