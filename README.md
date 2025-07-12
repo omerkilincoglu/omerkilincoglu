@@ -59,6 +59,7 @@ I'm a passionate software engineer with a strong focus on mobile and web develop
 
 ### 🛠️ My Projects
 
+
 #### Bitirme Projesi
 Frontend:  
 <a href="https://github.com/omerkilincoglu/bitirme-frontend-proje" target="_blank">  
@@ -71,6 +72,7 @@ Backend:
 </a>
 
 <br clear="both" />
+
 
 #### Wep Projesi  
 <a href="https://github.com/omerkilincoglu/Wep-Projesi" target="_blank">  
