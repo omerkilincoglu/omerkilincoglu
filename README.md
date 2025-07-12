@@ -27,14 +27,15 @@ I'm a passionate software engineer with a strong focus on mobile and web develop
 
 ### 🔨 Languages and Tools:
 
-[![React Native](https://img.icons8.com/color/48/000000/react-native.png )](https://reactnative.dev/ )
-[![Node.js](https://img.icons8.com/color/48/000000/nodejs.png )](https://nodejs.org/ )
-[![Express.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg )](https://expressjs.com/ )[![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png )](https://www.postgresql.org/ )
-[![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png )](https://developer.mozilla.org/en-US/docs/Web/HTML )
-[![CSS3](https://img.icons8.com/color/48/000000/css3.png )](https://developer.mozilla.org/en-US/docs/Web/CSS )
-[![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png )](https://developer.mozilla.org/en-US/docs/Web/JavaScript )
-[![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png )](https://en.cppreference.com/w/cpp )
-[![C](https://img.icons8.com/color/48/000000/c-programming.png )](https://en.wikipedia.org/wiki/C_ (programming_language))
+[![React Native](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg )](https://reactnative.dev/ )
+[![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg )](https://nodejs.org/ )
+[![Express.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg )](https://expressjs.com/ )
+[![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg )](https://www.postgresql.org/ )
+[![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg )](https://developer.mozilla.org/en-US/docs/Web/HTML )
+[![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css-original.svg )](https://developer.mozilla.org/en-US/docs/Web/CSS )
+[![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg )](https://developer.mozilla.org/en-US/docs/Web/JavaScript )
+[![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg )](https://en.cppreference.com/w/cpp )
+[![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg )](https://en.wikipedia.org/wiki/C_ (programming_language))
 
 ---
 
