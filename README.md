@@ -59,28 +59,28 @@ I'm a passionate software engineer with a strong focus on mobile and web develop
 
 ### 🛠️ My Projects
 
+#### 🎓 Bitirme Projesi  
+React Native ile geliştirilen mobil uygulama + Node.js & Express tabanlı backend sistemi. Uygulama, kullanıcıların ürünleri paylaşabileceği ve ikinci el alışveriş yapabileceği bir platformdur.
 
-#### Bitirme Projesi
-Frontend:  
-<a href="https://github.com/omerkilincoglu/bitirme-frontend-proje" target="_blank">  
-  <img alt="bitirme-frontend-proje" src="https://github.com/omerkilincoglu/bitirme-frontend-proje/raw/main/assets/iconapp.png" height="68" align="left" style="margin-right:15px;" />  
+<div style="display:flex; flex-wrap:wrap; gap:15px; align-items:center;">
+  <a href="https://github.com/omerkilincoglu/bitirme-frontend-proje " target="_blank">
+    <img alt="Frontend Project" src="https://github.com/omerkilincoglu/bitirme-frontend-proje/raw/main/assets/iconapp.png " height="68" />
+  </a>
+  <span style="margin: 0 10px;">+</span>
+  <a href="https://github.com/omerkilincoglu/bitirme-backend-proje " target="_blank">
+    <img alt="Backend Project" src="https://github.com/omerkilincoglu/bitirme-backend-proje/raw/main/assets/iconapp.png " height="68" />
+  </a>
+</div>
+
+---
+
+#### 💻 Web Projesi  
+HTML, CSS ve JavaScript kullanılarak geliştirilen dinamik web sitesi projesi. Temel web geliştirme becerilerini pekiştirmek ve kullanıcı dostu arayüzler oluşturmak amacıyla yapıldı.
+
+<a href="https://github.com/omerkilincoglu/web-projesi " target="_blank">
+  <img alt="Web Project" src="https://via.placeholder.com/68?text=Web+App" height="68" />
 </a>
 
-Backend:  
-<a href="https://github.com/omerkilincoglu/bitirme-backend-proje" target="_blank">  
-  <img alt="bitirme-backend-proje" src="https://github.com/omerkilincoglu/bitirme-backend-proje/raw/main/assets/iconapp.png" height="68" align="left" style="margin-right:15px;" />  
-</a>
-
-<br clear="both" />
-
-
-#### Wep Projesi  
-<a href="https://github.com/omerkilincoglu/Wep-Projesi" target="_blank">  
-  <img alt="Wep-Projesi" src="https://github.com/omerkilincoglu/Wep-Projesi/raw/main/gorseller/website.png" height="68" align="left" style="margin-right:15px;" />  
-</a>
-
-<br clear="both" />
-
-
+> Bu proje, temel frontend teknolojileri olan HTML, CSS ve JavaScript kullanılarak oluşturuldu. İleride daha gelişmiş framework'lerle genişletmeyi planlıyorum.
 
 
