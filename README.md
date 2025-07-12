@@ -8,18 +8,19 @@ I'm a passionate software engineer with a strong focus on mobile and web develop
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3o7aD4d7kxoF6RNUwQ/giphy.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **React Native second-hand marketplace app**
-- 🤝 &nbsp; I’m open to collaborate on mobile and full-stack projects
-- 🌱 &nbsp; I’m currently improving my skills in Flutter and TypeScript
-- 👨‍💻 &nbsp; Most of my projects are available on [GitHub](https://github.com/omerkilincoglu)
-- 💬 &nbsp; Ask me about React Native, mobile development, backend APIs, or C++
-- 📫 &nbsp; Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/omerkilincoglu)
-- 📝 &nbsp; Check out my [Resume](https://drive.google.com/file/d/YOUR_CV_LINK/view) (optional)
-- 📚 &nbsp; In my free time, I enjoy reading tech blogs and fiction novels
+- 🎓 I'm a Computer Engineering graduate from Sakarya University (Class of 2025)
+- 💻 I specialize in JavaScript-based full-stack development
+- 📱 I’ve developed mobile applications using React Native
+- 🔧 I’ve built backend systems with Node.js + Express.js
+- 🌱 Currently, I'm learning Flutter and improving my mobile app development skills
+- 🧠 I enjoy designing clean and maintainable code
+- 📚 In my free time, I read books and explore new technologies
+- 🤝 I'm particularly interested in mobile app development and real-world solutions
+
 
 <br/>
 
