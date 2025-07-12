@@ -27,15 +27,16 @@ I'm a passionate software engineer with a strong focus on mobile and web develop
 
 ### 🔨 Languages and Tools:
 
-[![React Native](https://img.icons8.com/color/48/000000/react-native.png )](https://reactnative.dev/ )
-[![Node.js](https://img.icons8.com/color/48/000000/nodejs.png )](https://nodejs.org/ )
-[![Express.js](https://img.icons8.com/color/48/000000/expressjs.png )](https://expressjs.com/ )
-[![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png )](https://www.postgresql.org/ )
-[![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png )](https://developer.mozilla.org/en-US/docs/Web/HTML )
-[![CSS3](https://img.icons8.com/color/48/000000/css3.png )](https://developer.mozilla.org/en-US/docs/Web/CSS )
-[![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png )](https://developer.mozilla.org/en-US/docs/Web/JavaScript )
-[![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png )](https://en.cppreference.com/w/cpp )
-[![C](https://img.icons8.com/color/48/000000/c-programming.png )](https://en.wikipedia.org/wiki/C_ (programming_language))
+[![React Native](https://img.icons8.com/color/48/000000/react-native.png   )](https://reactnative.dev/   )
+[![Node.js](https://img.icons8.com/color/48/000000/nodejs.png   )](https://nodejs.org/   )
+[![Express.js](https://img.icons8.com/color/48/000000/expressjs.png   )](https://expressjs.com/   )
+[![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png   )](https://www.postgresql.org/   )
+[![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png   )](https://developer.mozilla.org/en-US/docs/Web/HTML   )
+[![CSS3](https://img.icons8.com/color/48/000000/css3.png   )](https://developer.mozilla.org/en-US/docs/Web/CSS   )
+[![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png   )](https://developer.mozilla.org/en-US/docs/Web/JavaScript   )
+[![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png   )](https://en.cppreference.com/w/cpp   )
+[![C](https://img.icons8.com/color/48/000000/c-programming.png   )](https://en.wikipedia.org/wiki/C_   (programming_language))
+
 
 ---
 
