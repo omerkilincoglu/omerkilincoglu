@@ -27,13 +27,15 @@ I'm a passionate software engineer with a strong focus on mobile and web develop
 
 ### 🔨 Languages and Tools:
 
-<a href="https://reactnative.dev/ "><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg " alt="React" width="40" height="40" /></a>
-<a href="https://nodejs.org/ "><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg " alt="Node.js" width="40" height="40" /></a>
-<a href="https://expressjs.com/ "><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg " alt="Express" width="40" height="40" /></a>
-<a href="https://www.postgresql.org/ "><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg " alt="PostgreSQL" width="40" height="40" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML "><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg " alt="HTML5" width="40" height="40" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS "><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css-original.svg " alt="CSS3" width="40" height="40" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript "><img src="https://raw.githubusercontent
+[![React Native](https://img.icons8.com/color/48/000000/react-native.png )](https://reactnative.dev/ )
+[![Node.js](https://img.icons8.com/color/48/000000/nodejs.png )](https://nodejs.org/ )
+[![Express.js](https://img.icons8.com/color/48/000000/expressjs.png )](https://expressjs.com/ )
+[![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png )](https://www.postgresql.org/ )
+[![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png )](https://developer.mozilla.org/en-US/docs/Web/HTML )
+[![CSS3](https://img.icons8.com/color/48/000000/css3.png )](https://developer.mozilla.org/en-US/docs/Web/CSS )
+[![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png )](https://developer.mozilla.org/en-US/docs/Web/JavaScript )
+[![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png )](https://en.cppreference.com/w/cpp )
+[![C](https://img.icons8.com/color/48/000000/c-programming.png )](https://en.wikipedia.org/wiki/C_ (programming_language))
 
 ---
 
