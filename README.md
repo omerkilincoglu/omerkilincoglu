@@ -27,15 +27,13 @@ I'm a passionate software engineer with a strong focus on mobile and web develop
 
 ### 🔨 Languages and Tools:
 
-[![React Native](https://img.shields.io/badge/-React_Native-black?style=flat&logo=react&logoColor=white&color=orange)]( https://reactnative.dev/ )
-[![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js&logoColor=green&color=lightgreen)]( https://nodejs.org/ )
-[![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat&logo=express&logoColor=blue&color=lightblue)]( https://expressjs.com/ )
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql&logoColor=blue&color=pink)]( https://www.postgresql.org/ )
-[![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5&logoColor=orange&color=orange)]( https://developer.mozilla.org/en-US/docs/Web/HTML )
-[![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3&logoColor=blue&color=lightblue)]( https://developer.mozilla.org/en-US/docs/Web/CSS )
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=yellow&color=yellow)]( https://developer.mozilla.org/en-US/docs/Web/JavaScript )
-[![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=cpp&logoColor=purple&color=purple)]( https://en.cppreference.com/w/cpp )
-[![C](https://img.shields.io/badge/-C-black?style=flat&logo=c&logoColor=blue&color=blue)]( https://en.wikipedia.org/wiki/C_ (programming_language))
+<a href="https://reactnative.dev/ "><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg " alt="React" width="40" height="40" /></a>
+<a href="https://nodejs.org/ "><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg " alt="Node.js" width="40" height="40" /></a>
+<a href="https://expressjs.com/ "><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg " alt="Express" width="40" height="40" /></a>
+<a href="https://www.postgresql.org/ "><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg " alt="PostgreSQL" width="40" height="40" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML "><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg " alt="HTML5" width="40" height="40" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS "><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css-original.svg " alt="CSS3" width="40" height="40" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript "><img src="https://raw.githubusercontent
 
 ---
 
