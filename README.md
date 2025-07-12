@@ -25,18 +25,19 @@ I'm a passionate software engineer with a strong focus on mobile and web develop
 <br/>
 
 ### 🔨 Languages and Tools:
-<a href="https://reactnative.dev/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" height="42px" /></a>
-<a href="https://nodejs.org/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" height="42px" /></a>
-<a href="https://expressjs.com/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" height="42px" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="42px" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="42px" /></a>
-<a href="https://flutter.dev/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" height="42px" /></a>
-<a href="https://www.w3.org/html/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="42px" /></a>
-<a href="https://www.w3.org/Style/CSS/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="42px" /></a>
-<a href="https://isocpp.org/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="42px" /></a>
-<a href="https://en.cppreference.com/w/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="42px" /></a>
+
+<a href="https://reactnative.dev/" target="_blank"> <img align="left" alt="React Native" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /> </a>
+<a href="https://nodejs.org/" target="_blank"> <img align="left" alt="Node.js" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" /> </a>
+<a href="https://expressjs.com/" target="_blank"> <img align="left" alt="Express" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" /> </a>
+<a href="https://www.postgresql.org/" target="_blank"> <img align="left" alt="PostgreSQL" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" /> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img align="left" alt="HTML5" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img align="left" alt="CSS3" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /> </a>
+<a href="https://en.cppreference.com/w/cpp" target="_blank"> <img align="left" alt="C++" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" /> </a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img align="left" alt="C" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" /> </a>
 
 <br/>
+
 
 ### 🛠️ My Projects
 <a href="https://github.com/omerkilincoglu/bitirme-backend-proje" target="_blank">
