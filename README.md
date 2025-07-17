@@ -1,6 +1,8 @@
 ## 👋 Hey 👋, I'm Ömer Kılınçoğlu!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SENİN_LINKEDIN_PUBLIC_PROFIL_URL'İN)---
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SENİN_LINKEDIN_PUBLIC_PROFIL_URL'İN)
+
+---
 
 I am a passionate software engineer specializing in mobile and web development, continuously improving my skills. I strive to deliver user-centered, high-quality, and sustainable solutions. I have experience in developing applications for mobile platforms and continually enhance my expertise by learning new technologies.
 
