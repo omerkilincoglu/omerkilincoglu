@@ -1,6 +1,6 @@
 ## 👋 Hey 👋, I'm Ömer Kılınçoğlu!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SENİN_LINKEDIN_PUBLIC_PROFIL_URL'İN)
+[![LinkedIn Profile](https://www.linkedin.com/in/omer-kilincoglu-831a58374/)
 
 ---
 
