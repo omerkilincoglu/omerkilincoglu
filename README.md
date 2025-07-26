@@ -1,6 +1,6 @@
 ## 👋 Hey 👋, I'm Ömer Kılınçoğlu!
 
-[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/omerkilincoglu)
+[![LinkedIn Profile](RESIM_LINKI)](https://www.linkedin.com/in/omerkilincoglu)
 
 ---
 
