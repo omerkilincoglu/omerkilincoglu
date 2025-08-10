@@ -49,7 +49,6 @@ A mobile application developed with React Native, along with a Node.js & Express
 - 🔗 [Backend](https://github.com/omerkilincoglu/bitirme-backend-proje)
 - 🔗 [Frontend](https://github.com/omerkilincoglu/bitirme-frontend-proje)
 
-
 ---
 
 #### 💻 Web Project
