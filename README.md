@@ -46,8 +46,9 @@ I am a passionate software engineer specializing in mobile and web development, 
 #### 🎓 Bitirme Projesi  
 A mobile application developed with React Native, along with a Node.js & Express-based backend system. The application is a platform where users can share products and engage in second-hand shopping.
 
-- 🔗 [Backend](https://github.com/omerkilincoglu/bitirme-backend-proje )
-- 🔗 [Frontend](https://github.com/omerkilincoglu/bitirme-frontend-proje )
+- 🔗 [Backend](https://github.com/omerkilincoglu/bitirme-backend-proje)
+- 🔗 [Frontend](https://github.com/omerkilincoglu/bitirme-frontend-proje)
+
 
 ---
 
