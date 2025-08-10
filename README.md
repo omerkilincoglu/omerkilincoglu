@@ -44,7 +44,7 @@ I am a passionate software engineer specializing in mobile and web development, 
 ### 🛠️ My Projects
 
 #### 🎓 Bitirme Projesi  
-React Native ile geliştirilen mobil uygulama + Node.js & Express tabanlı backend sistemi. Uygulama, kullanıcıların ürünleri paylaşabileceği ve ikinci el alışveriş yapabileceği bir platformdur.
+A mobile application developed with React Native, along with a Node.js & Express-based backend system. The application is a platform where users can share products and engage in second-hand shopping.
 
 - 🔗 [Backend](https://github.com/omerkilincoglu/bitirme-backend-proje )
 - 🔗 [Frontend](https://github.com/omerkilincoglu/bitirme-frontend-proje )
@@ -52,7 +52,7 @@ React Native ile geliştirilen mobil uygulama + Node.js & Express tabanlı backe
 ---
 
 #### 💻 Web Projesi  
-HTML, CSS ve JavaScript kullanılarak geliştirilen temel düzey web uygulaması. Frontend geliştirme becerilerinin pekiştirilmesi amacıyla yapıldı.
+A basic-level web application developed using HTML, CSS, and JavaScript. It was created with the aim of reinforcing frontend development skills.
 
 - 🔗 [Web Projesi](https://github.com/omerkilincoglu/web-projesi )
 
