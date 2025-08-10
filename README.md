@@ -55,8 +55,7 @@ A mobile application developed with React Native, along with a Node.js & Express
 #### 💻 Web Projesi  
 A basic-level web application developed using HTML, CSS, and JavaScript. It was created with the aim of reinforcing frontend development skills.
 
-- 🔗 [Web Projesi](https://github.com/omerkilincoglu/web-projesi )
-
+- 🔗 [Web Project](https://github.com/omerkilincoglu/web-projesi)
 ---
 
 
