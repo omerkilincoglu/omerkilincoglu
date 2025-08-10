@@ -57,4 +57,5 @@ A basic-level web application developed using HTML, CSS, and JavaScript. It was 
 
 - 🔗 [Web Project](https://github.com/omerkilincoglu/Wep-Projesi)
 
+  ---
 
