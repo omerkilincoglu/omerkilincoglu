@@ -43,7 +43,7 @@ I am a passionate software engineer specializing in mobile and web development, 
 
 ### 🛠️ My Projects
 
-#### 🎓 Bitirme Projesi  
+#### 🎓  Graduation Project  
 A mobile application developed with React Native, along with a Node.js & Express-based backend system. The application is a platform where users can share products and engage in second-hand shopping.
 
 - 🔗 [Backend](https://github.com/omerkilincoglu/bitirme-backend-proje)
